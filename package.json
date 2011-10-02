@@ -1,0 +1,13 @@
+{
+  "name": "dlite-cache",
+  "description": "Small cache library.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nshah/dlite-cache",
+  "author": "Naitik Shah <n@daaku.org>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nshah/dlite-cache"
+  },
+  "engines": { "node": ">= 0.4.1" }
+}
